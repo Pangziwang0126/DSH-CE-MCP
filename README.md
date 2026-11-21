@@ -2,6 +2,8 @@
 
 给 Cheat Engine 装的 MCP 服务器。装好之后，任何支持 MCP 的 AI 客户端（Cursor、Cline、Claude Code、Claude Desktop……）可以直接操作 CE：读内存、写内存、特征码扫描、数值扫描、反汇编、打补丁、管地址表、下断点。
 
+> **直接下载** → [YQ-CE-MCP-Setup.exe](https://github.com/Pangziwang0126/DSH-CE-MCP/releases/latest/download/YQ-CE-MCP-Setup.exe) · 109 KB · 双击即装，CE 插件和 DSH 接线一次做完
+
 **单文件、纯 Lua、免编译、零外部依赖。**
 
 ---
