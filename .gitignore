@@ -14,3 +14,6 @@ desktop.ini
 # build leftovers
 *.pdb
 *.obj
+
+# local helper, not part of the project
+push-to-github.bat
